@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+}
+
+body {
+  background-image: linear-gradient(to right top, #ff0000, #f73e00, #f05800, #e86b00, #e17b14, #e38a15, #e4981a, #e4a621, #eaba14, #eccf02, #ebe500, #e6fb00);
+}
